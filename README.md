@@ -3,9 +3,10 @@
 
 
 Problem statement: 
+
   1. Write a while loop that reads in 10 numbers  and computes their sum and product.  Your program should read the 10 numbers one at a time from the user.  After the loop, print the sum and product.
-  2.  Write a for loop that reads in 10 numbers then prints their sum and product. Your program should read the 10 numbers one at a time from the user. Now a similar problem with a for loop.  
-  3.  Ask the user for a number.  Using a for loop, compute the sum and product of the numbers from 1 to the user number (including that number).  After the loop, print the sum and product.
+  2. Write a for loop that reads in 10 numbers then prints their sum and product. Your program should read the 10 numbers one at a time from the user. Now a similar problem with a for loop.
+  3. Ask the user for a number.  Using a for loop, compute the sum and product of the numbers from 1 to the user number (including that number).  After the loop, print the sum and product.
 
 
 
