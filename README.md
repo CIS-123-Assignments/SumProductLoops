@@ -52,10 +52,16 @@ The product of the 10 numbers is:  -35039293120.42
 Instructions:
 
 Working through the problem statement as follows: 
+
 Think through what problem needs to be solved
+
 Write an algorithm 
+
 Implement the code to solve the problem
+
 Test the code
+
 Don’t forget to begin your program file with your name, date, section, purpose, and algorithm as comments.
+
 
 
